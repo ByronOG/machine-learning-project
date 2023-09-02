@@ -8,7 +8,7 @@ Tasked to create a model to predict whether the diceased were armed or not.
 The Project is divided into 3 tasks: Data Visualisation, Data Pre-processing, and Machine Learning Applications
 
 # Data Visualisation
-Visualised core features and their relationships with each other to better understand the data.
+Visualised core features and their relationships with each other to understand the data better.
 
 # Data Pre-Processed
 Split data into Training and Test Sets. Transformed Numerical and Categorical Attributes through a pipeline.
